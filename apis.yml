@@ -32,6 +32,7 @@ description: MycoWorks is a San Francisco Bay Area biotechnology and advanced-ma
   Creditors in late 2025. MycoWorks operates as a physical-materials manufacturer and
   publishes no public developer API, OpenAPI definition, SDK, or developer portal, so
   this API Evangelist profile carries company identity only.
+x-status: defunct
 url: https://raw.githubusercontent.com/api-evangelist/mycoworks/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -51,6 +52,7 @@ tags:
 - Mycelium
 - Leather Alternative
 - Manufacturing
+- Defunct
 apis: []
 common:
 - type: Website
